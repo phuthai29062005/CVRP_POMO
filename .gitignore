@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual env
+venv/
+env/
+
+# VSCode
+.vscode/
+
+# pytest
+.pytest_cache/
